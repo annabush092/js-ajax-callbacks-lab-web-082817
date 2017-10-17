@@ -3,7 +3,7 @@ $(document).ready(function (){
   $('#searchRepositories').on('click', searchRepositories)
 
   function getToken() {
-    return 'a33301427079b6ef8dfc86710cb0bc4083420ae6'
+    return ''
   }
 
   function displayCommits(json) {
